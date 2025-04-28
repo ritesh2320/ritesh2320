@@ -45,6 +45,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building crea
 
 ## 📊 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-004&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/ritesh2320/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh2320&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/ritesh2320/github-readme-stats)
 
 Thanks for visiting my profile! 🎉
