@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ritesh2320&label=Profile%20views&color=00308F&style=flat" alt="ritesh2320" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building creative and innovative solutions.Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate developer who loves building creative and innovative solutions. Here's a bit more about me:
 
 ## 🚀 About Me
 
