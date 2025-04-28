@@ -2,7 +2,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ritesh2320&label=Profile%20views&color=00308F&style=flat" alt="ritesh2320" /> </p>
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building creative and innovative solutions. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate developer who loves building creative and innovative solutions.Here's a bit more about me:
 
 ## 🚀 About Me
 
@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building crea
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![EJS](https://img.shields.io/badge/ejs-005C84?style=for-the-badge&logo=ejs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
