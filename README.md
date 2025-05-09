@@ -1,53 +1,47 @@
-# Hi, I'm Ritesh! 👋
+# 👋 Hi, I'm Ritesh Shelar
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ritesh2320&label=Profile%20views&color=00308F&style=flat" alt="ritesh2320" /> </p>
+🎓 Computer Engineering Student | 💻 MERN Stack Developer | 🚀 Eager to Learn & Build
 
-Welcome to my GitHub profile! I'm a passionate developer who loves building creative and innovative solutions. Here's a bit more about me:
+I'm a passionate software developer skilled in crafting full-stack web applications and continuously expanding my skill set through projects and internships. I enjoy turning ideas into real-world solutions using modern web technologies.
 
-## 🚀 About Me
+## 🛠 Tech Stack
 
-👩‍💻 I'm currently working on **Databases using SQL, MongoDB and Nodejs.**
+- **Languages:** JavaScript, Java, Python, C, C++
+- **Frontend:** React.js, React Native, HTML5, CSS3, Tailwind CSS,
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL. SQLite
+- **Tools:** Git, GitHub, Postman, VS Code
 
-🧠 I'm currently learning **Databases like MySQL,MongoDB etc.**
+## 🌱 Currently Learning
 
-👯‍♀️ I'm looking to collaborate on **Frontend & Backend Projects.**
+- TypeScript, Next.js, and exploring React Native mobile app development.
 
-💬 Ask me about **C++, Python, Java, SQL, MongoDB.**
+## 💼 Internship Experience
 
-📫 Reach me at **riteshshelar820@gmail.com**
+**MERN Stack Intern**  
+📍 _UTTIRNA Services LLP_ | 🗓 _Aug 2024 – Nov 2024_
 
-## 🛠 Skills
+- Developed and optimized full-stack applications using MongoDB, Express.js, React, and Node.js
+- Collaborated in an Agile environment to deliver responsive UI and REST APIs
+- Gained hands-on experience in debugging, version control, and deployment best practices
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![EJS](https://img.shields.io/badge/ejs-005C84?style=for-the-badge&logo=ejs&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%2338B2AC.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DSA](https://img.shields.io/badge/dsa-%2338B2AC.svg?style=for-the-badge&logo=dsa&logoColor=white)
+## 📌 Projects
 
+- 📁 [Blood Bank Project](#) – React JS website with MySQL as database
+- 📊 [Attendance Management System](#) – Web app with Node.js, EJS, MySQL
 
+## 📫 Connect with me
 
-## 🔗 Links
+<!-- - 📧 Email: riteshshelar820@gmail.com -->
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-shelar/)
-
-<!-- [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/anshul_51)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/anshul__singh) -->
+- [Email](riteshshelar820@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/riteshshelar)
+- [Repositories](https://github.com/ritesh2320)
 
 ## 📊 Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritesh2320&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/ritesh2320/github-readme-stats)
 
-Thanks for visiting my profile! 🎉
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
