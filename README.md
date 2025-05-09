@@ -34,9 +34,7 @@ I'm a passionate software developer skilled in crafting full-stack web applicati
 
 <!-- - 📧 Email: riteshshelar820@gmail.com -->
 
-- [Email](riteshshelar820@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/riteshshelar)
-- [Repositories](https://github.com/ritesh2320)
+- [Email](riteshshelar820@gmail.com) | [LinkedIn](https://www.linkedin.com/in/riteshshelar) | [Repositories](https://github.com/ritesh2320)
 
 ## 📊 Statistics
 
