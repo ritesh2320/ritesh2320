@@ -14,7 +14,7 @@ I'm a passionate software developer skilled in crafting full-stack web applicati
 
 ## 🌱 Currently Learning
 
-- TypeScript, Next.js, and exploring React Native mobile app development.
+- TypeScript, Next.js, and exploring Java Full-Stack development.
 
 ## 💼 Internship Experience
 
